@@ -1,0 +1,90 @@
+@import url(http://fonts.googleapis.com/css?family=Calibri:400,300,700);
+.mt-100 {
+  margin-top: 100px;
+}
+
+.mb-100 {
+  margin-bottom: 100px;
+}
+
+.heading {
+  font-size: 1.5rem;
+}
+
+.card1 {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 0px solid transparent;
+  border-radius: 0px;
+}
+
+.card1-body {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1rem;
+}
+
+.card1 .card1-title {
+  font-size: 3rem;
+  position: relative;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+ul.list-style-none li {
+  list-style: none;
+}
+
+ul.list-style-none li a {
+  color: #673ab7;
+  padding: 8px 0px;
+  display: block;
+  text-decoration: none;
+}
+
+.m-t-5 {
+  margin-top: 5px;
+}
+
+.w-30px {
+  width: 30px;
+}
+
+.input {
+  display: none;
+}
+
+.upload {
+  margin-left: 25%;
+  margin-bottom: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn_upload {
+  padding: 8px 15px;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+  border: 0px;
+}
+
+.delete_btn {
+  padding: 8px 15px;
+  background-color: darkred;
+  color: white;
+  border-radius: 10px;
+  border: 0px;
+  margin-left: 10px;
+}

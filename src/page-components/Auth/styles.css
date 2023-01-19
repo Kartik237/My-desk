@@ -1,0 +1,24 @@
+.login_button {
+  margin-top: 15rem;
+  min-width: 200px;
+  padding: 15px;
+  outline: none;
+  border: 2px solid grey !important;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.login_button:hover {
+  background-color: whitesmoke;
+}
+
+.login_span {
+  margin-left: 10px;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.login_container {
+  text-align: center;
+  /* margin-top: 40vh; */
+}

@@ -1,0 +1,23 @@
+.quote_title {
+  font-size: 17px;
+  text-align: center;
+}
+
+.quote_author {
+  font-size: 16px;
+  text-align: center;
+  line-height: 0px;
+}
+
+.quote_container {
+  margin-top: 120px;
+}
+
+.calender_grid {
+  font-size: 15px;
+  margin-top: 10px !important;
+}
+
+.desk {
+  max-width: 100% !important;
+}
